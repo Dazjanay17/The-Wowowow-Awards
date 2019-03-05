@@ -1,0 +1,14 @@
+h1{
+     color: red;
+     background-color: black;
+     width: 650px;
+     border: 20px dotted red;
+      text-align: center;
+}
+img{
+    width: 500px;
+    border: 20px groove orange;
+}
+body{
+    background-color: yellow;
+}
